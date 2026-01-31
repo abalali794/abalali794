@@ -1,16 +1,75 @@
-## Hi there 👋
+<h1 align="center">Abdulrahman Alali</h1>
 
-<!--
-**abalali794/abalali794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Ops → Finance → Decisions</b><br/>
+  Healthcare Finance & Analytics · Budgeting · Profitability · Scenario Modeling
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/abalali794?tab=repositories">Repositories</a> ·
+  <a href="https://github.com/abalali794?tab=projects">Projects</a> ·
+  <a href="mailto:YOUR_EMAIL_HERE">Email</a> ·
+  <a href="https://www.linkedin.com/in/YOUR_LINK_HERE/">LinkedIn</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abalali794&style=flat&label=Profile%20Views" />
+  <img src="https://img.shields.io/badge/Focus-Healthcare%20Finance-informational" />
+  <img src="https://img.shields.io/badge/Build-Models%20%26%20Dashboards-informational" />
+</p>
+
+---
+
+## 👋 About me
+
+I’m Abdulrahman Alali — I sit at the intersection of healthcare operations and finance, and I’m obsessed with one thing: making the numbers match reality.
+
+I earned a **Master of Health Administration (MHA)**, and I’m currently pursuing a **finance degree** to deepen my technical skills in modeling, valuation, and analytics. 
+
+Earlier in my career, I worked in hospital operations/business operations roles where I learned how performance actually breaks (and how to fix it). I’ve led finance-impact work like a hematology reconciliation project (over $1M+ in scope) and built operational solutions that improved patient access so patients didn’t have to wait longer to receive care.
+
+In the near future, I want to step into a **healthcare FP&A / finance analytics** role where I can own forecasting, service-line performance, and scenario planning—building the kind of models leaders can actually use. Long term, I’m building toward finance leadership in healthcare (CFO track), grounded in operational reality.
+
+---
+
+## 🎯 Mission
+I build healthcare finance tools that expose **where margin is created, where it leaks, and what limits growth** — then translate that into an executable plan.
+
+---
+
+## 🧩 Featured Builds
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🧾 DRG Medicare Profitability Dashboard</h3>
+      <ul>
+        <li><b>What it does:</b> DRG-level profitability view to see where margin is created vs. lost.</li>
+        <li><b>Why it matters:</b> Prioritize focus areas, understand downside risk, and test volume/LOS changes.</li>
+        <li><b>Repo:</b> <a href="https://github.com/abalali794/drg-medicare-profitability-dashboard">drg-medicare-profitability-dashboard</a></li>
+        <li><b>Stack:</b> Power BI · Excel · Python</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🦴 Orthopedics Hospital Outpatient Budget Model</h3>
+      <ul>
+        <li><b>What it does:</b> Driver-based service line budget: volume → net revenue → cost → profitability.</li>
+        <li><b>Why it matters:</b> Turns the budget into an operational plan (capacity + productivity + break-even risk).</li>
+        <li><b>Repo:</b> <a href="https://github.com/abalali794/orthopedics-hospital-outpatient-budget-model">orthopedics-hospital-outpatient-budget-model</a></li>
+        <li><b>Stack:</b> Advanced Excel · Finance modeling · Ops KPIs</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧰 Toolbench
+- **Advanced Excel Functions & Data Analytics**
+- **Python:** data cleaning, analytics, automation  
+- **Power BI & Tableau:** buiding interactive dashboards & storytelling
+---
+
+<p align="center">
+  <i>If you want to collaborate or you’re hiring in healthcare finance, reach out!</i>
+</p>
