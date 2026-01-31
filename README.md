@@ -46,7 +46,7 @@ I build healthcare finance tools that expose **where margin is created, where it
       <ul>
         <li><b>What it does:</b> DRG-level profitability view to see where margin is created vs. lost.</li>
         <li><b>Why it matters:</b> Prioritize focus areas, understand downside risk, and test volume/LOS changes.</li>
-        <li><b>Repo:</b> <a href="https://github.com/abalali794/drg-medicare-profitability-dashboard">drg-medicare-profitability-dashboard</a></li>
+        <li><b>Link:</b> <a href="https://github.com/abalali794/drg-medicare-profitability-dashboard">drg-medicare-profitability-dashboard</a></li>
         <li><b>Stack:</b> Power BI · Excel · Python</li>
       </ul>
     </td>
@@ -55,7 +55,7 @@ I build healthcare finance tools that expose **where margin is created, where it
       <ul>
         <li><b>What it does:</b> Driver-based service line budget: volume → net revenue → cost → profitability.</li>
         <li><b>Why it matters:</b> Turns the budget into an operational plan (capacity + productivity + break-even risk).</li>
-        <li><b>Repo:</b> <a href="https://github.com/abalali794/orthopedics-hospital-outpatient-budget-model">orthopedics-hospital-outpatient-budget-model</a></li>
+        <li><b>Link:</b> <a href="https://github.com/abalali794/orthopedics-hospital-outpatient-budget-model">orthopedics-hospital-outpatient-budget-model</a></li>
         <li><b>Stack:</b> Advanced Excel · Finance modeling · Ops KPIs</li>
       </ul>
     </td>
