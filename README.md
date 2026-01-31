@@ -6,8 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/abalali794?tab=repositories">Repositories</a> ·
-  <a href="https://github.com/abalali794?tab=projects">Projects</a> ·
+  <a href="https://github.com/abalali794?tab=repositories">Repositories (Projects)</a> ·
   <a href="mailto:abalali794@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/alali794">LinkedIn</a>
 </p>
