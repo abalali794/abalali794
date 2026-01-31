@@ -9,7 +9,7 @@
   <a href="https://github.com/abalali794?tab=repositories">Repositories</a> ·
   <a href="https://github.com/abalali794?tab=projects">Projects</a> ·
   <a href="mailto:abalali794@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/abalali794/">LinkedIn</a>
+  <a href="[https://www.linkedin.com/in/abalali794/](https://www.linkedin.com/in/alali794/)">LinkedIn</a>
 </p>
 
 <p align="center">
