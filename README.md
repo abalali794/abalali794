@@ -27,7 +27,7 @@ I earned a **Master of Health Administration (MHA)**, and I’m currently pursui
 
 Earlier in my career, I worked in hospital operations/business operations roles where I learned how performance actually breaks (and how to fix it). I’ve led finance-impact work like a hematology reconciliation project (over $1M+ in scope) and built operational solutions that improved patient access so patients didn’t have to wait longer to receive care.
 
-In the near future, I want to step into a **healthcare FP&A / finance analytics** role where I can own forecasting, service-line performance, and scenario planning—building the kind of models leaders can actually use. Long term, I’m building toward finance leadership in healthcare (CFO track), grounded in operational reality.
+In the near future, I want to step into a **healthcare FP&A / finance analytics** role where I can own forecasting, service-line performance, and scenario planning—building the kind of models leaders can actually use. Long term, I’m building toward finance leadership in healthcare, grounded in operational reality.
 
 ---
 
