@@ -43,8 +43,8 @@ I build healthcare finance tools that expose **where margin is created, where it
     <td valign="top" width="50%">
       <h3>🧾 DRG Medicare Profitability Dashboard</h3>
       <ul>
-        <li><b>What it does:</b> DRG-level profitability view to see where margin is created vs. lost.</li>
-        <li><b>Why it matters:</b> Prioritize focus areas, understand downside risk, and test volume/LOS changes.</li>
+        <li><b>What it does?</b> DRG-level profitability view to see where margin is created vs. lost.</li>
+        <li><b>Why it matters?</b> Prioritize focus areas, understand downside risk, and test volume/LOS changes.</li>
         <li><b>Link:</b> <a href="https://github.com/abalali794/drg-medicare-profitability-dashboard">drg-medicare-profitability-dashboard</a></li>
         <li><b>Stack:</b> Power BI · Excel · Python</li>
       </ul>
@@ -52,13 +52,27 @@ I build healthcare finance tools that expose **where margin is created, where it
     <td valign="top" width="50%">
       <h3>🦴 Orthopedics Hospital Outpatient Budget Model</h3>
       <ul>
-        <li><b>What it does:</b> Driver-based service line budget: volume → net revenue → cost → profitability.</li>
-        <li><b>Why it matters:</b> Turns the budget into an operational plan (capacity + productivity + break-even risk).</li>
+        <li><b>What it does?</b> Driver-based service line budget: volume → net revenue → cost → profitability.</li>
+        <li><b>Why it matters?</b> Turns the budget into an operational plan (capacity + productivity + break-even risk).</li>
         <li><b>Link:</b> <a href="https://github.com/abalali794/orthopedics-hospital-outpatient-budget-model">orthopedics-hospital-outpatient-budget-model</a></li>
         <li><b>Stack:</b> Advanced Excel · Finance modeling · Ops KPIs</li>
+   </tr>
+         <tr>
+    <td valign="top" width="50%">
+      <h3> Multi-Unit Nursing Salary Model (Med-Surg | ICU | ED)</h3>
+      <ul>
+        <li><b>What it does?</b> Models nursing labor cost by unit using volume, staffing, agency, OT, and turnover drivers.</li>
+        <li><b>Why it matters?</b> Quantifies tradeoffs across a $25M+ nursing labor budget, showing how staffing and agency decisions impact cost and efficiency by unit.</li>
+        <li><b>Link:</b> <a href="https://github.com/abalali794/multi-unit-nursing-labor-cost-model">multi-unit-nursing-labor-cost-model</a></li>
+        <li><b>Stack:</b> Advanced Excel · Finance modeling </li>
       </ul>
     </td>
-  </tr>
+    <td valign="top" width="50%">
+      <h3> Healthcare Capital Budgeting</h3>
+      <ul>
+        <li><b> Coming Up Soon!</b> </li>
+       
+   </tr>
 </table>
 
 ---
