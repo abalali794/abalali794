@@ -23,7 +23,7 @@
 
 I’m Abdulrahman Alali — I sit at the intersection of healthcare operations and finance, and I’m obsessed with one thing: making the numbers match reality.
 
-I earned a **Master of Health Administration (MHA)**, and I’m currently pursuing a **finance degree** to deepen my technical skills in modeling, valuation, and analytics. 
+I earned a **Master of Health Administration (MHA)**, and I’m currently pursuing a **finance degree** at Johns Hopkins University to deepen my technical skills in modeling, valuation, and analytics. 
 
 Earlier in my career, I worked in hospital operations/business operations roles where I learned how performance actually breaks (and how to fix it). I’ve led finance-impact work like a hematology reconciliation project (over $1M+ in scope) and built operational solutions that improved patient access so patients didn’t have to wait longer to receive care.
 
