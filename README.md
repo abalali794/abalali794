@@ -74,7 +74,20 @@ I build healthcare finance tools that expose **where margin is created, where it
         <li><b>Why it matters?</b> Shows how ramp timing, payer mix, and operating leverage drive healthcare capital investment value.</li>
         <li><b>Link:</b> <a href="https://github.com/abalali794/healthcare-capital-budgeting">orthopedics-hospital-outpatient-budget-model</a></li>
         <li><b>Stack:</b> Advanced Excel · Capital budgeting · DCF modeling · Scenario analysis</li>
+   <tr>
+    <td valign="top" width="50%">
+      <h3>Value-Based Care Project</h3>
+      <ul>
+        <li><b>Coming Up Soon!</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Funds Flow in Academic Medical Centers</h3>
+      <ul>
+        <li><b>Coming Up Soon!</li>
         
+        
+            
    </tr>
 </table>
 
