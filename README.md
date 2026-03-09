@@ -70,8 +70,11 @@ I build healthcare finance tools that expose **where margin is created, where it
     <td valign="top" width="50%">
       <h3> Healthcare Capital Budgeting</h3>
       <ul>
-        <li><b> Coming Up Soon!</b> </li>
-       
+        <li><b>What it does?</b> Evaluates a new ASC with 2 robotic systems using volume, reimbursement, cost, cash flow, and DCF.
+        <li><b>Why it matters?</b> Shows how ramp timing, payer mix, and operating leverage drive healthcare capital investment value.</li>
+        <li><b>Link:</b> <a href="https://github.com/abalali794/healthcare-capital-budgeting">orthopedics-hospital-outpatient-budget-model</a></li>
+        <li><b>Stack:</b> Advanced Excel · Capital budgeting · DCF modeling · Scenario analysis</li>
+        
    </tr>
 </table>
 
